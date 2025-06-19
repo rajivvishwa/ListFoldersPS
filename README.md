@@ -1,4 +1,4 @@
-# Recursive Folder Scanner
+# Recursive Folder List
 
 A PowerShell script that recursively scans all folders in the current directory, counts their subfolders, and generates a detailed report.
 
